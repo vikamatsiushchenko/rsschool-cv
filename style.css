@@ -9,3 +9,12 @@ body {
   top: 100px;
   left: 270px;
 }
+.name {
+  color: #8d4b4b;
+  font-size: 24pt;
+  font-family: Century Ghotic, sans-serif;
+  font-variant: small-caps;
+  position: absolute;
+  top: 100px;
+  left: 500px;
+}
