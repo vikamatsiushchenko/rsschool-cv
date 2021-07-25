@@ -60,17 +60,18 @@ table {
   bottom: 10px;
   left: 270px;
 }
-.rspage {
+
+.rspic {
+  position: absolute;
+  left: 750px;
+  bottom: 1px;
+}
+span {
   color: #8d4b4b;
   font-family: Century Ghotic, sans-serif;
   font-size: 10pt;
   font-weight: italic;
   position: absolute;
   bottom: 10px;
-  right: 200px;
-}
-.rspic {
-  position: absolute;
-  left: 750px;
-  bottom: 1px;
+  right: 270px;
 }
