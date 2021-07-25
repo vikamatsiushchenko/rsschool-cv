@@ -27,3 +27,27 @@ body {
   top: 100px;
   right: 200px;
 }
+A {
+  color: #8d4b4b;
+}
+table {
+  color: #8d4b4b;
+  font-family: Century Ghotic, sans-serif;
+  line-height: 20pt;
+  background-color: #ffffff;
+  position: absolute;
+  top: 330px;
+  left: 270px;
+  text-align: left;
+}
+.firstth {
+  width: 200px;
+  font-size: 13pt;
+  font-weight: bold;
+  vertical-align: text-top;
+}
+.secondth {
+  width: 850px;
+  font-size: 12pt;
+  font-weight: normal;
+}
