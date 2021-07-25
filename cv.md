@@ -6,3 +6,10 @@ _Number phone:_ +375293685933
 _Email:_ vika_m99@mail.ru
 
 _Discord:_ vikamatsiushchenko#2175
+_About me:_ I am 21 years old. I graduated from university a month ago. I am not familiar with programming but it is very interesting to know how it works.
+
+_Skills:_ rsschool is first expirience
+
+_Education:_ BNTU, engineer
+
+_English level:_ B1, graduated from English courses
